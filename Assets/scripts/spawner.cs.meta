@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 194b940ee313f114ca26351a0ed1a543
+timeCreated: 1524041764
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - smallpickup: {fileID: 1893850980973774, guid: 32056850ab9cd354a9a72bcbb77a2f35,
+      type: 2}
+  - mediumpickup: {fileID: 1446778303529694, guid: 99afaa2f0b5ce1d43a1a203a621ac366,
+      type: 2}
+  - largepickup: {fileID: 1114665343723264, guid: a54477735aee88946a811cbf7f0ad65b,
+      type: 2}
+  - redbomb: {fileID: 1219320504879708, guid: df71db94ca17b824c91939c8ff4faa71, type: 2}
+  - myslider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
